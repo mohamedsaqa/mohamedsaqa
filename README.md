@@ -2,11 +2,9 @@
 
 -👀 I’m interested in full-stack development
 
--🌱 I’m currently learning JavaScript, CSS, PHP, Laravel, jQuery, and Bootstrap.
 
 -💞️ I’m looking to collaborate on web development projects, open-source contributions, or any innovative ideas that can enhance my skills and knowledge.
 
--📫 How to reach me: mohamedtarekalsa2a123456@gmail.com or call me at +20 109 775 3215.
 
 -😄 Pronouns: He/Him
 
